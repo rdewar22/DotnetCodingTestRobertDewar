@@ -38,22 +38,33 @@ public class FileSearchService
         {
             try
             {
-                // read all text in files with the UTF-16 encoding
-                string content = File.ReadAllText(filePath, Encoding.Unicode);
-
-                // check if searchValue is contained in the file
-                if (content.Contains(searchValue))
+                // open file with read access
+                using (var stream = new FileStream(filePath, FileMode.Open, FileAccess.Read, FileShare.Read, bufferSize: 4096))
+                // wrap the filestream for text reading and reads files as UTF-16 encoded text
+                using (var reader = new StreamReader(stream, Encoding.Unicode))
                 {
-                    // lock out other processes when updating shared resources
-                    lock (lockObj)
+                    bool found = false;
+                    while (!reader.EndOfStream && !found)
                     {
-                        count++;
-                        // I don't know if I am correctly adding the last two parameters here
-                        _filesLocated.Add(new FileDetails(
-                            filePath,
-                            Path.GetFileName(filePath),
-                            searchValue.Length,
-                            searchValue));
+                        string? line = reader.ReadLine();
+                        if (line != null) 
+                        {
+                            if (line.Contains(searchValue))
+                            {
+                                found = true;
+                                // locks out other processes when updating shared resources
+                                lock (lockObj)
+                                {
+                                    count++;
+                                    _filesLocated.Add(new FileDetails(
+                                        filePath,
+                                        Path.GetFileName(filePath),
+                                        searchValue.Length,
+                                        searchValue));
+                                }
+                            }
+                        }
+                        
                     }
                 }
             }

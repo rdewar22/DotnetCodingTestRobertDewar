@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Magna.Dexsys.FileHandler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffc66700d1f400dcbbe10c7ca70a4f63f87da9a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f87c5489d7260f6a89e2ef24a95090c9a160de1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Magna.Dexsys.FileHandler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Magna.Dexsys.FileHandler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
