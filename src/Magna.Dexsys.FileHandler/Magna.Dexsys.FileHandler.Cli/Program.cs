@@ -32,7 +32,7 @@ public class Program
 
         foreach (FileDetails item in searchService.FilesLocated)
         {
-            Console.WriteLine(item.Name, item.Content);
+            Console.WriteLine(item.Name + ": " + item.Content);
         }
 
         Console.WriteLine($"Completed in {stopwatch.ElapsedMilliseconds}");
