@@ -33,15 +33,8 @@ public class FileSearchService
         // create an object that can lock out other processes when we update shared resources
         object lockObj = new object();
 
-        // settings for our parallel foreach statement
-        var options = new ParallelOptions
-        {
-            // -1 signifies no limit to degree of parallelism
-            MaxDegreeOfParallelism = -1
-        };
-
         // loop through all the files in parallel
-        Parallel.ForEach(Directory.GetFiles(directory), options, filePath =>
+        Parallel.ForEach(Directory.GetFiles(directory), filePath =>
         {
             try
             {
