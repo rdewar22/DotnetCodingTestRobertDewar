@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Magna.Dexsys.FileHandler.Cli/1.0.0": {
+        "dependencies": {
+          "Magna.Dexsys.FileHandler": "1.0.0"
+        },
+        "runtime": {
+          "Magna.Dexsys.FileHandler.Cli.dll": {}
+        }
+      },
+      "Magna.Dexsys.FileHandler/1.0.0": {
+        "runtime": {
+          "Magna.Dexsys.FileHandler.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Magna.Dexsys.FileHandler.Cli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Magna.Dexsys.FileHandler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

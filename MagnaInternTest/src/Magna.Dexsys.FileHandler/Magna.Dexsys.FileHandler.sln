@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magna.Dexsys.FileHandler", "Magna.Dexsys.FileHandler\Magna.Dexsys.FileHandler.csproj", "{4500D189-4B83-4AE8-97E1-5719878E8D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magna.Dexsys.FileHandler.Cli", "Magna.Dexsys.FileHandler.Cli\Magna.Dexsys.FileHandler.Cli.csproj", "{3173413F-50E2-4958-8659-D774E900AEE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4500D189-4B83-4AE8-97E1-5719878E8D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4500D189-4B83-4AE8-97E1-5719878E8D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4500D189-4B83-4AE8-97E1-5719878E8D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4500D189-4B83-4AE8-97E1-5719878E8D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3173413F-50E2-4958-8659-D774E900AEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3173413F-50E2-4958-8659-D774E900AEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3173413F-50E2-4958-8659-D774E900AEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3173413F-50E2-4958-8659-D774E900AEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
