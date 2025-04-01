@@ -22,3 +22,15 @@ C:\Users\robby\Source\Repos\DotnetCodingTestRobertDewar\src\Magna.Dexsys.FileHan
 C:\Users\robby\Source\Repos\DotnetCodingTestRobertDewar\src\Magna.Dexsys.FileHandler\Magna.Dexsys.FileHandler\obj\Debug\net9.0\refint\Magna.Dexsys.FileHandler.dll
 C:\Users\robby\Source\Repos\DotnetCodingTestRobertDewar\src\Magna.Dexsys.FileHandler\Magna.Dexsys.FileHandler\obj\Debug\net9.0\Magna.Dexsys.FileHandler.pdb
 C:\Users\robby\Source\Repos\DotnetCodingTestRobertDewar\src\Magna.Dexsys.FileHandler\Magna.Dexsys.FileHandler\obj\Debug\net9.0\ref\Magna.Dexsys.FileHandler.dll
+C:\Users\robby\Source\Repos\DotnetCodingTestRobertDewarFinalTest\src\Magna.Dexsys.FileHandler\Magna.Dexsys.FileHandler\bin\Debug\net9.0\Magna.Dexsys.FileHandler.deps.json
+C:\Users\robby\Source\Repos\DotnetCodingTestRobertDewarFinalTest\src\Magna.Dexsys.FileHandler\Magna.Dexsys.FileHandler\bin\Debug\net9.0\Magna.Dexsys.FileHandler.dll
+C:\Users\robby\Source\Repos\DotnetCodingTestRobertDewarFinalTest\src\Magna.Dexsys.FileHandler\Magna.Dexsys.FileHandler\bin\Debug\net9.0\Magna.Dexsys.FileHandler.pdb
+C:\Users\robby\Source\Repos\DotnetCodingTestRobertDewarFinalTest\src\Magna.Dexsys.FileHandler\Magna.Dexsys.FileHandler\obj\Debug\net9.0\Magna.Dexsys.FileHandler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robby\Source\Repos\DotnetCodingTestRobertDewarFinalTest\src\Magna.Dexsys.FileHandler\Magna.Dexsys.FileHandler\obj\Debug\net9.0\Magna.Dexsys.FileHandler.AssemblyInfoInputs.cache
+C:\Users\robby\Source\Repos\DotnetCodingTestRobertDewarFinalTest\src\Magna.Dexsys.FileHandler\Magna.Dexsys.FileHandler\obj\Debug\net9.0\Magna.Dexsys.FileHandler.AssemblyInfo.cs
+C:\Users\robby\Source\Repos\DotnetCodingTestRobertDewarFinalTest\src\Magna.Dexsys.FileHandler\Magna.Dexsys.FileHandler\obj\Debug\net9.0\Magna.Dexsys.FileHandler.csproj.CoreCompileInputs.cache
+C:\Users\robby\Source\Repos\DotnetCodingTestRobertDewarFinalTest\src\Magna.Dexsys.FileHandler\Magna.Dexsys.FileHandler\obj\Debug\net9.0\Magna.Dexsys.FileHandler.sourcelink.json
+C:\Users\robby\Source\Repos\DotnetCodingTestRobertDewarFinalTest\src\Magna.Dexsys.FileHandler\Magna.Dexsys.FileHandler\obj\Debug\net9.0\Magna.Dexsys.FileHandler.dll
+C:\Users\robby\Source\Repos\DotnetCodingTestRobertDewarFinalTest\src\Magna.Dexsys.FileHandler\Magna.Dexsys.FileHandler\obj\Debug\net9.0\refint\Magna.Dexsys.FileHandler.dll
+C:\Users\robby\Source\Repos\DotnetCodingTestRobertDewarFinalTest\src\Magna.Dexsys.FileHandler\Magna.Dexsys.FileHandler\obj\Debug\net9.0\Magna.Dexsys.FileHandler.pdb
+C:\Users\robby\Source\Repos\DotnetCodingTestRobertDewarFinalTest\src\Magna.Dexsys.FileHandler\Magna.Dexsys.FileHandler\obj\Debug\net9.0\ref\Magna.Dexsys.FileHandler.dll

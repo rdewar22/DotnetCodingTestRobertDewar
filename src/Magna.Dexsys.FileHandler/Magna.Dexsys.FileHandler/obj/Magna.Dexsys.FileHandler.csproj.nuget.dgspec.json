@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robby\\Source\\Repos\\DotnetCodingTestRobertDewar\\src\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler.csproj": {}
+    "C:\\Users\\robby\\Source\\Repos\\DotnetCodingTestRobertDewarFinalTest\\src\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robby\\Source\\Repos\\DotnetCodingTestRobertDewar\\src\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler.csproj": {
+    "C:\\Users\\robby\\Source\\Repos\\DotnetCodingTestRobertDewarFinalTest\\src\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robby\\Source\\Repos\\DotnetCodingTestRobertDewar\\src\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler.csproj",
+        "projectUniqueName": "C:\\Users\\robby\\Source\\Repos\\DotnetCodingTestRobertDewarFinalTest\\src\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler.csproj",
         "projectName": "Magna.Dexsys.FileHandler",
-        "projectPath": "C:\\Users\\robby\\Source\\Repos\\DotnetCodingTestRobertDewar\\src\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler.csproj",
+        "projectPath": "C:\\Users\\robby\\Source\\Repos\\DotnetCodingTestRobertDewarFinalTest\\src\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler.csproj",
         "packagesPath": "C:\\Users\\robby\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robby\\Source\\Repos\\DotnetCodingTestRobertDewar\\src\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler\\obj\\",
+        "outputPath": "C:\\Users\\robby\\Source\\Repos\\DotnetCodingTestRobertDewarFinalTest\\src\\Magna.Dexsys.FileHandler\\Magna.Dexsys.FileHandler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
