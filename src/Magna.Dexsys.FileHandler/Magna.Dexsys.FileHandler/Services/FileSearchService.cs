@@ -34,7 +34,7 @@ public class FileSearchService
         object lockObj = new object();
 
         // loop through all the files in parallel
-        Parallel.ForEach(Directory.GetFiles(directory), filePath =>
+        Parallel.ForEach(Directory.EnumerateFiles(directory), filePath =>
         {
             try
             {
